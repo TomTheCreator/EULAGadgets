@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EULAGadgets:jar">
+    <output-path>$USER_HOME$/Documents/Server/TestingServer/plugins</output-path>
+    <root id="archive" name="EULAGadgets.jar">
+      <element id="module-output" name="EULAGadgets" />
+    </root>
+  </artifact>
+</component>

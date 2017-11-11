@@ -1,0 +1,22 @@
+name: EULAGadgets
+version: 1.0
+main: me.tomthedeveloper.EULAGadgets
+commands:
+  gadgetmenu:
+    usage: /gadgetmenu
+    description: Opens the main gadget menu!
+  fireworks:
+    usage: /fireworks
+    description: Opens the firework menu!
+  gadgets:
+    usage: /gadgets
+    description: Opens the gadget menu!
+  particlecircles:
+    usage: /particlecircles
+    description: Opens the particle circles menu!
+  particletrails:
+    usage: /particletrials
+    description: Opens the particle trails menu!
+  hats:
+    usage: /hats
+    description: Opens the hats menu!
